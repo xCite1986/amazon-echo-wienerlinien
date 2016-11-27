@@ -1,0 +1,33 @@
+GetFirstBusIntent nach dem nächsten Aspernstrasse Bus {bus}
+GetFirstBusIntent wann der nächste Bus nach Aspernstrasse fährt {bus}
+GetFirstBusIntent nach den nächsten Bus Richtung Aspernstrasse {bus}
+GetFirstBusIntent nach dem nächsten Bus in die Aspernstrasse {bus}
+GetFirstBusIntent nach dem nächsten Bus nach Aspernstrasse {bus}
+GetFirstBusIntent Bus Aspernstrasse {bus}
+GetFirstBusIntent Bus nach Aspernstrasse {bus}
+GetFirstBusIntent Aspernstrasse {bus}
+GetFirstBusIntent nach Aspernstrasse {bus}
+
+GetSecondBusIntent nach dem nächsten Seestadt Bus {bus}
+GetSecondBusIntent wann der nächste Bus nach Seestadt fährt {bus}
+GetSecondBusIntent nach den Bus Richtung Seesatdt {bus}
+GetSecondBusIntent nach dem nächsten Bus in die Seestadt {bus}
+GetSecondBusIntent nach dem nächsten Bus nach Seestadt {bus}
+GetSecondBusIntent Bus Seestadt {bus}
+GetSecondBusIntent Bus nach Seestadt {bus}
+GetSecondBusIntent Seestadt {bus}
+GetSecondBusIntent nach Seestadt {bus}
+
+
+GetThirdBusIntent nach der nächsten U Bahn {bus}
+GetThirdBusIntent nach dderem nächsten U-Bahn {bus}
+GetThirdBusIntent nach der nächsten UBahn {bus}
+GetThirdBusIntent nach der nächsten Uzwei {bus}
+GetThirdBusIntent nach der nächsten U zwei {bus}
+GetThirdBusIntent nach der U zwei {bus}
+GetThirdBusIntent nach der Uzwei {bus}
+GetThirdBusIntent nach der UBahn {bus}
+GetThirdBusIntent wann die nächste U Bahn fährt {bus}
+
+HelpIntent hilfe
+HelpIntent hilf mir
