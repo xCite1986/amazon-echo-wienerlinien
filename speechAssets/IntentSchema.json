@@ -1,0 +1,35 @@
+{
+  "intents": [
+    {
+      "intent": "GetFirstBusIntent",
+      "slots": [
+        {
+          "name": "bus",
+          "type": "NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "GetSecondBusIntent",
+      "slots": [
+        {
+          "name": "bus",
+          "type": "NUMBER"
+        }
+      ]
+    },
+        {
+      "intent": "GetThirdBusIntent",
+      "slots": [
+        {
+          "name": "bus",
+          "type": "NUMBER"
+        }
+      ]
+    },
+    {
+      "intent": "HelpIntent",
+      "slots": []
+    }
+  ]
+}
