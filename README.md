@@ -2,7 +2,7 @@
 
 ## Beschreibung
 
-AlexaSkill, um via json die Echtzeitdaten von Wienerlinie anzurifen und via AMazn Echo wiederzugeben
+AlexaSkill, um via json die Echtzeitdaten von Wienerlinien abzurufen und via Amazn-Echo wiederzugeben
 
 # Beispiele
 
