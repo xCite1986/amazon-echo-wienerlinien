@@ -13,3 +13,5 @@ AlexaSkill, um via json die Echtzeitdaten von Wienerlinien abzurufen und via Ama
 "Alexa, frag Wienerlinen nach der nächsten U-Bahn"
 "Die nächste Ubahn nach Karlsplatz fährt in 6, die übernächste in 13 Minuten."
 ---
+
+inspired from https://github.com/dustincoates/alexa-bus-schedule
